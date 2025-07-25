@@ -1,12 +1,12 @@
 # xlhdnumpy
 
-A simple numpy-like library for array operations.
+A package similar to Numpy.
 
 ## Features
 
 - Create arrays
 - Basic array operations (add, subtract, multiply, divide)
-- Statistical functions (sum, mean)
+- Statistical functions (sum, mean,min,max,unique,median)
 
 ## Installation
 pip install xlhdnumpy
