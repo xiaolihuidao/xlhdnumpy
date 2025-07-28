@@ -1,9 +1,6 @@
 README.md
 pyproject.toml
 setup.cfg
-tests/__init__.py
-tests/test_array.py
-tests/test_operations.py
 xlhdnumpy/__init__.py
 xlhdnumpy/array.py
 xlhdnumpy/operations.py
